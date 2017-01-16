@@ -1,0 +1,7 @@
+swoole API flow
+1. browser request nginx server
+2. nginx agency to php-fpm
+3. through swoole\client request swoole\server
+4. swoole\server reponse swoole\client
+5. when swoole\server dispose what request need database
+   swoole\server can use coroutine, you can creat swoole coroutine
