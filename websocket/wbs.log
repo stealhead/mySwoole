@@ -1,0 +1,354 @@
+connection open: 1
+message: 游客2107上线了
+message: 游客2107:可以吃饭了
+connection open: 2
+message: 游客4042上线了
+message: 游客4042:我不吃
+message: 游客2107:吃点吧
+message: 游客4042:好的
+message: 游客4042:哼，我才不吃呢
+message: 游客2107:哈哈，都比媳妇
+connection open: 3
+message: 游客4574上线了
+connection close: 1
+message: 游客4574:吃
+connection open: 4
+message: 游客3112上线了
+connection close: 3
+connection open: 5
+message: 游客4373上线了
+connection close: 4
+connection open: 6
+message: 游客3590上线了
+connection close: 2
+connection open: 7
+message: 游客7532上线了
+connection close: 6
+connection open: 8
+message: 游客1494上线了
+connection close: 7
+connection open: 9
+message: 游客4447上线了
+connection close: 8
+connection open: 10
+message: 游客6768上线了
+connection close: 9
+connection open: 11
+message: 游客9073上线了
+connection close: 5
+[2016-10-17 22:33:14 *15752.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2016-10-17 22:33:14 $15750.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2016-10-17 22:33:14 #15749.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+connection open: 12
+message: 游客9827上线了
+connection close: 10
+connection open: 13
+message: 游客8090上线了
+connection close: 12
+connection open: 14
+message: 游客545上线了
+connection close: 13
+connection open: 15
+message: 游客111上线了
+connection close: 14
+message: 游客111:de
+connection open: 16
+message: 游客1756上线了
+connection close: 15
+message: 游客1756:sds
+connection open: 17
+message: 游客4847上线了
+connection close: 16
+connection open: 18
+message: 游客208上线了
+connection close: 17
+message: 游客208:ddfsd
+message: 游客208:
+connection open: 19
+message: 游客1524上线了
+connection close: 18
+message: 游客1524:sdfs
+connection open: 20
+message: 游客9278上线了
+connection close: 19
+message: 游客9278:haha
+connection open: 21
+message: 游客9817上线了
+connection close: 20
+message: 游客9817:吃了吗
+connection close: 11
+connection open: 22
+message: 游客8407上线了
+connection close: 21
+connection open: 23
+message: 游客8144上线了
+connection close: 22
+connection open: 24
+message: 游客5148上线了
+connection close: 23
+connection open: 25
+message: 游客2366上线了
+connection close: 24
+connection open: 26
+message: 游客1856上线了
+connection close: 25
+connection open: 27
+message: 游客594上线了
+connection close: 26
+connection open: 28
+message: 游客4566上线了
+connection close: 27
+connection open: 29
+message: 游客5283上线了
+connection close: 28
+connection open: 30
+message: 游客1042上线了
+connection close: 29
+message: 游客1042:吃了吧
+message: 游客1042:的地方
+connection open: 31
+message: 游客2539上线了
+message: 游客2539:打盹
+connection close: 31
+connection close: 30
+connection open: 32
+message: 游客4433上线了
+connection open: 33
+message: 游客210上线了
+connection close: 32
+connection open: 34
+message: 游客8662上线了
+connection close: 33
+connection close: 34
+connection open: 35
+message: 游客1273上线了
+connection close: 35
+connection open: 36
+message: 游客353上线了
+connection close: 36
+connection open: 37
+message: 游客8295上线了
+connection open: 38
+message: 游客3505上线了
+connection close: 37
+connection open: 39
+message: 游客4129上线了
+connection close: 38
+message: 游客4129:喜讯喜讯特大喜讯
+connection close: 39
+connection open: 40
+message: 游客3774上线了
+connection open: 41
+message: 游客569上线了
+connection close: 40
+connection open: 42
+message: 游客6439上线了
+connection close: 41
+connection open: 43
+message: 游客4146上线了
+connection close: 42
+connection open: 44
+message: 游客6962上线了
+message: 游客6962:刚刚
+message: 游客4146:rongrong
+message: 游客6962:你个猪头
+message: 游客4146:哈哈 媳妇儿
+message: 游客6962:弄得跟台湾的PTT一样
+message: 游客6962:哈哈哈
+connection close: 45
+connection close: 43
+connection close: 44
+connection open: 46
+connection close: 46
+connection open: 47
+connection open: 48
+connection close: 47
+connection close: 48
+connection open: 49
+message: 游客1744上线了
+connection open: 50
+message: 游客6750上线了
+message: 游客6750:哈哈
+message: 游客1744:傻逼阿红
+message: 游客1744:你死定了
+message: 游客6750:吃豆腐的的
+message: 游客6750:的风景大酒店多交点d
+message: 游客6750:d
+message: 游客6750:dbjd 
+message: 游客6750:d
+message: 游客6750:djdjd 
+message: 游客6750:hdkdnd 
+message: 游客6750:djdjd d
+message: 游客6750:dhdjjdjd sjs 
+message: 游客1744:的地方
+message: 游客1744:吃饭
+message: 游客1744:水电费是否是
+message: 游客1744:水电费水电费是
+message: 游客1744:sdfsd
+message: 游客1744:sdfsdf
+message: 游客1744:是对方是否
+message: 游客1744:舒服舒服的
+message: 游客1744:打法是否
+message: 游客1744:sdfsdf发送是否地方
+message: 游客1744:师傅师傅说
+message: 游客1744:是非得失f水电费s
+message: 游客1744:sdfsdf
+message: 游客1744:sdfsdf
+connection close: 49
+connection close: 50
+connection open: 51
+message: 游客5799上线了
+connection close: 51
+connection open: 52
+connection close: 52
+connection open: 53
+connection open: 54
+connection close: 53
+connection close: 54
+connection open: 55
+message: 游客6511上线了
+message: 游客6511:有人吗
+connection close: 55
+connection open: 56
+message: 游客4858上线了
+connection close: 56
+connection open: 57
+message: 游客6983上线了
+connection close: 57
+connection close: 59
+connection close: 60
+connection close: 58
+connection close: 61
+connection close: 62
+connection close: 63
+connection close: 64
+connection close: 65
+connection close: 66
+connection close: 67
+connection close: 68
+connection close: 69
+connection close: 70
+connection close: 71
+connection close: 72
+connection close: 73
+connection close: 74
+connection close: 75
+connection close: 76
+connection close: 77
+connection close: 78
+connection close: 79
+connection close: 80
+connection close: 81
+connection close: 82
+connection close: 83
+connection close: 84
+connection close: 85
+connection close: 86
+connection close: 87
+connection close: 88
+connection close: 89
+connection close: 90
+connection close: 91
+connection close: 92
+connection close: 93
+connection close: 94
+connection close: 95
+connection close: 96
+connection close: 97
+connection close: 98
+connection close: 99
+connection close: 100
+connection close: 101
+connection close: 102
+connection close: 103
+connection close: 104
+connection close: 105
+connection close: 106
+connection close: 107
+connection close: 108
+connection close: 109
+connection close: 110
+connection close: 111
+connection close: 112
+connection close: 113
+connection close: 114
+connection close: 115
+connection open: 116
+message: 游客791上线了
+connection close: 116
+connection close: 117
+connection close: 118
+connection close: 119
+connection close: 120
+connection close: 121
+connection close: 122
+connection close: 123
+connection close: 124
+connection close: 125
+connection close: 126
+connection close: 127
+connection close: 128
+connection close: 129
+connection close: 130
+connection close: 131
+connection close: 132
+connection close: 133
+connection close: 134
+connection close: 135
+connection close: 136
+connection close: 137
+connection close: 138
+connection close: 139
+connection close: 140
+connection close: 141
+connection close: 142
+connection close: 143
+connection close: 144
+connection close: 145
+connection open: 146
+message: 游客4018上线了
+connection close: 146
+connection open: 147
+message: 游客2791上线了
+connection close: 147
+connection close: 148
+connection close: 149
+connection close: 150
+connection close: 151
+connection close: 152
+connection close: 153
+connection close: 154
+connection close: 155
+connection close: 156
+connection close: 157
+connection close: 158
+connection close: 159
+connection close: 160
+connection close: 161
+connection close: 162
+connection close: 163
+connection close: 164
+connection close: 165
+connection close: 166
+connection close: 167
+connection close: 168
+connection close: 169
+connection close: 170
+connection close: 171
+connection close: 172
+connection close: 173
+connection close: 174
+connection close: 175
+connection close: 176
+connection open: 177
+message: 游客863上线了
+connection close: 177
+connection open: 178
+message: 游客39上线了
+connection close: 178
+connection close: 180
+connection close: 179
+connection open: 181
+message: 游客4246上线了
+connection close: 181
+[2016-10-31 15:18:27 #15749.0]	NOTICE	Server is shutdown now.
